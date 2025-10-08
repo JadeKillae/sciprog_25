@@ -1,7 +1,7 @@
 # Git Assignment
 
 
-*Name: Rosa Vergara Gonzalez
+*Name: Rosa Vergara
 *Institution: DIAS Geophysics Section
 
 This is my repo for 2025-2026 Scientific Programming Concepts Module
