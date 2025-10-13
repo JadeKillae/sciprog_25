@@ -1,8 +1,10 @@
-#Practical 2
+# Practical 2
 
-this folder contains practical 02 codes
+This folder contains practical 02 codes. We talk about float digits and the non-associative properties of the sum with float numbers.
 
-## To compile (c version):
+Chosen language: C
+
+## To compile:
 
 * gcc Conversion.c -o conversionc -lm
 * gcc Sum.c -o sumc
@@ -12,7 +14,7 @@ this folder contains practical 02 codes
 * ./conversionc
 * /sumc
 
-#Output:
+## Output:
 
 * Conversion:
 
